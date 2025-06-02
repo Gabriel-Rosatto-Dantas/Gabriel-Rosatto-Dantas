@@ -21,6 +21,27 @@ Me chamo Gabriel, para os mais intimos, Dantas ;) sou um engenheiro de dados apa
     </a>
 </p>
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/gabriel-rosatto-dantas-30104b215/">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+        />
+    </a>
+    <a href="https://instagram.com/devgabdantas">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" 
+        />
+    </a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
